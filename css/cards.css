@@ -44,12 +44,6 @@
     text-align: left;
 }
 
-.card-title a {
-    text-decoration: none;
-    color: black;
-    background-image: none;
-}
-
 .card-title h3,
 h2 {
     font-size: 1.2rem;
